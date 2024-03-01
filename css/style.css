@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 30px;
+}
+
+.block {
+  background: url("../img/bg_repeat.jpg");
+  height: 300px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #000;
+}
